@@ -1,11 +1,12 @@
 @media  only screen and (max-width: 599px)
-	body {
-		background-color: blue;
+	div.smalltitles {
+		color: blue;
 	}
 
 @media  only screen and (min-width: 600px)
-	body {
-		background-color: red;
+	div.smalltitles {
+		color: red;
+		text-decoration:underline;
 	}
 
 
@@ -16,10 +17,7 @@
 	color: green;
 }
 
-.smalltitles {
-	color: purple;
-	text-decoration: underline;
-}
+
 
 table.table1 {
     border: 1px solid black;
