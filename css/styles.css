@@ -32,9 +32,4 @@ and (max-width: 600px) {
 		background-color: orange;
 	}
 }
-@media only screen 
-and (min-width: 600px) {
-	body {
-		background-color: pink;
-	}
-}
+
