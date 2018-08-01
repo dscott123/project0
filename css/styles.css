@@ -1,8 +1,8 @@
-div {
+body {
 	background-color: orange;
 }
 @media only screen and (min-width: 600px) {
-	div {
+	body {
 		background-color: pink;
 	}
 }
