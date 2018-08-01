@@ -36,3 +36,10 @@ body
 #fujitext {
 	text-decoration: underline;
 }
+	
+.row {
+	background:orange;
+	&.red{
+		background:red;
+	}
+}
