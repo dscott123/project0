@@ -35,6 +35,7 @@ body
 
 #fujitext {
 	text-decoration: underline;
+	
 }
 	
 .row {
@@ -46,6 +47,7 @@ body
 
 %extender {
 	border:2px solid blue;
+	@extend %extender;
 }
 	
 
